@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BTStrobeRemote</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="min_freq">1 Hz</string>
+    <string name="max_freq">100 Hz</string>
+
+    <string name="min_duty_cycle">1 %</string>
+    <string name="max_duty_cycle">99 %</string>
+
+    <string name="frequency">Frequency</string>
+    <string name="duty_cycle">Duty cycle</string>
+
+    <string name="minus_point_one">-0.1</string>
+    <string name="minus_one">-1</string>
+    <string name="plus_point_one">+0.1</string>
+    <string name="plus_one">+1</string>
+
+    <string name="default_frequency">10.0 Hz</string>
+    <string name="default_duty">50 %</string>
+</resources>

@@ -1,0 +1,38 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="HeaderTextView">
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:layout_marginTop">@dimen/header_margin_top</item>
+        <item name="android:layout_marginRight">@dimen/header_margin_right</item>
+        <item name="android:layout_marginBottom">@dimen/header_margin_bottom</item>
+        <item name="android:layout_marginLeft">@dimen/header_margin_left</item>
+    </style>
+    
+    <style name="slider">
+        <item name="android:layout_marginTop">@dimen/slider_margin_top</item>
+        <item name="android:layout_marginRight">@dimen/slider_margin_right</item>
+        <item name="android:layout_marginBottom">@dimen/slider_margin_bottom</item>
+        <item name="android:layout_marginLeft">@dimen/slider_margin_left</item>
+    </style>
+
+    <style name="gauge_text">
+        <item name="android:typeface">monospace</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="block_layer">
+        <item name="android:layout_marginTop">@dimen/block_margin_top</item>
+        <item name="android:layout_marginRight">@dimen/block_margin_right</item>
+        <item name="android:layout_marginBottom">@dimen/block_margin_bottom</item>
+        <item name="android:layout_marginLeft">@dimen/block_margin_left</item>
+    </style>
+
+</resources>
